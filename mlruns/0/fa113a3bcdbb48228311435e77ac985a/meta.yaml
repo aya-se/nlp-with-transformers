@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ace14385kw/nlp-with-transformers/mlruns/0/fa113a3bcdbb48228311435e77ac985a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: fa113a3bcdbb48228311435e77ac985a
+run_uuid: fa113a3bcdbb48228311435e77ac985a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1660364907301
+status: 1
+tags: []
+user_id: ace14385kw
